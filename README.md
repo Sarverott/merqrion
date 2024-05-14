@@ -12,21 +12,21 @@ For automation of socialmedia publication and to make communication spreaded bet
 #### Publication platforms
 - tumblr
 - facebook
-- tiktok
+- ~tiktok~
 - ~soundcloud~
-- youtube
+- ~youtube~
 - blogspot
 - twitter (X)
 - instagram
 
 #### Communication platforms
-- discord
-- telegram
-- whatsapp
-- signal
+- ~discord~
+- ~telegram~
+- ~whatsapp~
+- ~signal~
 
 #### Additional functionality
-- email client
+- ~email client~
 - rss feed receiver
-- phone manage by adb
+- ~phone manage by adb~
 - webhooks
